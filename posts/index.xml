@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Night Light InfoSec</title>
+    <link>https://nightlightinfosec.github.io/posts/</link>
+    <description>Recent content in Posts on Night Light InfoSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2019 14:28:26 -0500</lastBuildDate>
+    
+	<atom:link href="https://nightlightinfosec.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://nightlightinfosec.github.io/posts/first-post/</link>
+      <pubDate>Thu, 31 Oct 2019 14:28:26 -0500</pubDate>
+      
+      <guid>https://nightlightinfosec.github.io/posts/first-post/</guid>
+      <description>WELCOME Hello and welcome!
+I’m glad you’re here and hope that you find value in what I write and post here.
+If you want more information about me, please check out my About page.
+I’m going to leave this short since I’m still developing all of this!
+Thanks for visiting!</description>
+    </item>
+    
+  </channel>
+</rss>
