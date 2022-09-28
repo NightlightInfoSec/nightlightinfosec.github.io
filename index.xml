@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Night Light InfoSec</title>
+    <link>https://nightlightinfosec.github.io/</link>
+    <description>Recent content on Night Light InfoSec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 14:54:47 -0500</lastBuildDate>
+    
+	<atom:link href="https://nightlightinfosec.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Update 2020</title>
+      <link>https://nightlightinfosec.github.io/posts/update-2020/</link>
+      <pubDate>Fri, 10 Apr 2020 14:54:47 -0500</pubDate>
+      
+      <guid>https://nightlightinfosec.github.io/posts/update-2020/</guid>
+      <description>Update: Q1 2020
+I wanted to drop a quick update because the last time I posted anything was in December.
+I said that I wanted to write at least once a month and I have not held up that end of the bargain. However, In the first 3 months of this year I have:
+ Became ITILv4 certified Achieved the AWS Solutions Architect Associate Lost over 10 lbs Gained a little self control  For ITIL, my current employer offered training for employees to attend a 3 day course concluding with the official exam.</description>
+    </item>
+    
+    <item>
+      <title>But I Do the Very Thing I Hate</title>
+      <link>https://nightlightinfosec.github.io/posts/but-i-do-the-very-thing-i-hate/</link>
+      <pubDate>Thu, 26 Dec 2019 21:52:49 -0600</pubDate>
+      
+      <guid>https://nightlightinfosec.github.io/posts/but-i-do-the-very-thing-i-hate/</guid>
+      <description>&amp;ldquo;For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate. &amp;quot; Romans 7:15 (ESV)
+ At the end of each year, like I&#39;m sure most do, I reflect on the things that I have accomplished. It&#39;s great to remember all of the good things, but more often than not I find myself thinking about all of the things I didn&#39;t do.</description>
+    </item>
+    
+    <item>
+      <title>Now What</title>
+      <link>https://nightlightinfosec.github.io/posts/now-what/</link>
+      <pubDate>Mon, 04 Nov 2019 10:03:39 -0600</pubDate>
+      
+      <guid>https://nightlightinfosec.github.io/posts/now-what/</guid>
+      <description>I Just Bought A Domain: Now What A Cautionary Tale Writing a blog post is such a great way to solidify your thoughts.
+When you write, you really have to think about what you are saying.
+When you buy a domain name though, sometimes you are living in the moment and forget about being logical.
+Planning After I bought my domain name, I wanted to jump right in and start learning the ins and outs of creating a website.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>https://nightlightinfosec.github.io/posts/first-post/</link>
+      <pubDate>Thu, 31 Oct 2019 14:28:26 -0500</pubDate>
+      
+      <guid>https://nightlightinfosec.github.io/posts/first-post/</guid>
+      <description>WELCOME Hello and welcome!
+I’m glad you’re here and hope that you find value in what I write and post here.
+If you want more information about me, please check out my About page.
+I’m going to leave this short since I’m still developing all of this!
+Thanks for visiting!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nightlightinfosec.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nightlightinfosec.github.io/about/</guid>
+      <description>ABOUT ME I&#39;m a SOC analyst trying to learn new things.
+I had been thinking about creating a website for myself, but could never seem to come up with a good name.
+Then one night after putting my kids to bed, I looked over at their nightlight and thought about all the times I have stayed up studying after putting them to bed.
+I immediately checked to see if the name was registered, and that&#39;s how NightlightInfoSec.</description>
+    </item>
+    
+  </channel>
+</rss>
